@@ -1,2 +1,2 @@
-helloworld
-==========
+helloworld Maven Project.
+=========================
