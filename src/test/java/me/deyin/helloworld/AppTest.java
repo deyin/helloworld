@@ -29,7 +29,7 @@ public class AppTest extends TestCase {
 	 * Rigourous Test :-)
 	 */
 	public void testApp() {
-		System.out.println("Test jenkins whether auto-build");
+		System.out.println("=======Test jenkins whether auto-build=======");
 		assertTrue(true);
 	}
 }
